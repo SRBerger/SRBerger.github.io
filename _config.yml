@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Steven Berger"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate and Teaching Assistant at Lehigh University"
+  bio              : "PhD Candidate and Teaching Assistant at Lehigh University"
   location         : "Bethlehm, PA"
   employer         : "Lehigh University"
   uri              : # URL
@@ -53,10 +53,10 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
+  # artstation       : # Username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # facebook         : # Username
+  # flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
