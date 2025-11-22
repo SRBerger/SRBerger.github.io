@@ -21,3 +21,8 @@ TV Game Shows
 ------
 The game show Lucky 13 differs from other television game shows in that contestants are required to place a bet on their own knowledge of trivia by selecting a range that contains the number of questions that they answered correctly. We present a model for this game show using binomial random variables and generate tables outlining the optimal range the player should select based on maximization of two different utility functions. After analyzing the decisions made by some actual contestants on this show, we present a numerical simulation for how many questions an average player is expected to answer correctly based on question categories observed for twelve sample contestants.  This is joint work with Prof. Daniel Conus at Lehigh University.
 
+Preprints
+------
+[The Optimal Strategy for Playing Lucky 13 (PDF)](/files/Lucky13_Article_2025.pdf)
+
+
