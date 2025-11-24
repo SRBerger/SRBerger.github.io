@@ -23,7 +23,7 @@ repository               : "SRBerger/SRBerger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/IMG_4331.jpeg"
+  avatar           : "files/IMG_4331.jpeg"
   name             : "Steven Berger"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate and Teaching Assistant at Lehigh University"
