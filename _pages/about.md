@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ------
-I am a 6th year PhD candidate at Lehigh University in Bethlehem, PA.  I have a M.S. in Applied Mathematics from Lehigh University. I also earned a B.S. in Mathematics (with honors) and a B.A. in Music from Moravian College (now Moravian University).  My primary research direction relates applied statistics to algorithmic music composition.   My secondary research direction involves using probability theory to study optimal strategies for playing on TV game shows. In my spare time, I enjoy practicing piano and composing music.
+I am an Assistant Professor of Mathematics at Greensboro College in Greensboro, NC.  I have a M.S. and PhD in Applied Mathematics from Lehigh University. I also earned a B.S. in Mathematics (with honors) and a B.A. in Music from Moravian College (now Moravian University).  My primary research direction relates applied statistics to algorithmic music composition.   My secondary research direction involves using probability theory to study optimal strategies for playing on TV game shows. In my spare time, I enjoy practicing piano and composing music.
 
 Algorithmic Music Composition
 ------
